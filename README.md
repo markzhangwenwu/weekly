@@ -32,8 +32,15 @@ $ grep -nri css docs | cat --number
 
 ## 2020
 
+**十一月**
+
+- 第 132 期：[快能力和慢能力](docs/issue-132.md)
+
 **十月**
 
+- 第 131 期：[你的头脑是二值逻辑，还是三值逻辑？](docs/issue-131.md)
+- 第 130 期：[低龄化的互联网](docs/issue-130.md)
+- 第 129 期：[创业的凸函数与凹函数](docs/issue-129.md)
 - 第 128 期：[这个社会是否正在变成“赛博朋克”？](docs/issue-128.md)
 
 **九月**
@@ -116,13 +123,13 @@ $ grep -nri css docs | cat --number
 - [第 84 期](docs/issue-84.md)
 - [第 83 期](docs/issue-83.md)
 - [第 82 期](docs/issue-82.md)
-- [第 81 期](docs/issue-81.md)
-- [第 80 期](docs/issue-80.md)
+- 第 81 期：[子辈能大幅超越父辈吗？](docs/issue-81.md)
+- 第 80 期：[企业软件创业，为什么在中国不容易成功？](docs/issue-80.md)
 
 **十月**
 
-- [第 79 期](docs/issue-79.md)
-- [第 78 期](docs/issue-78.md)
+- 第 79 期：[我们的生活越来越依赖机器](docs/issue-79.md)
+- 第 78 期：[下一个风口是什么行业？](docs/issue-78.md)
 - 第 77 期：[韩剧《阿尔布拉罕宫的回忆》](docs/issue-77.md)
 - 第 76 期：[任何爱好都能变成职业，只要你会拍视频](docs/issue-76.md)
 
@@ -206,13 +213,13 @@ $ grep -nri css docs | cat --number
 - [第 32 期](docs/issue-32.md)
 - [第 31 期](docs/issue-31.md)
 - [第 30 期](docs/issue-30.md)
-- [第 29 期](docs/issue-29.md)
+- 第 29 期：[公司的组织架构，决定了软件的复杂性](docs/issue-29.md)
 
 **十月**
 
-- [第 28 期](docs/issue-28.md)
-- [第 27 期](docs/issue-27.md)
-- [第 26 期](docs/issue-26.md)
+- 第 28 期：[软件开发是真正的知识吗？](docs/issue-28.md)
+- 第 27 期：[乔布斯的“热情假设”对不对？](docs/issue-27.md)
+- 第 26 期：[DHH 的新书《工作何必疯狂》](docs/issue-26.md)
 - 第 25 期：[安卓手机十周年的感想](docs/issue-25.md)
 
 **九月**
